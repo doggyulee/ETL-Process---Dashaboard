@@ -53,3 +53,5 @@ Querying desired data from both SQL and Amazon Redshift.
 ## ETL Process - Load 
 
 1. Load the final data into the server and connect with the visualization tools such as Spotfire or Tableauard
+
+![image](https://user-images.githubusercontent.com/39496126/96843308-5fc04800-1478-11eb-896d-6ea56c654245.png)
