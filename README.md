@@ -48,6 +48,8 @@ Querying desired data from both SQL and Amazon Redshift.
 
 > Here, I used HeidiSql data and Amazon Redshift data.
 
+<p align="center"><i>Loved the project? Please visit My <a href="https://github.com/doggyulee/ETL-Process---Dashaboard/blob/main/Merging%20data%20(Final).ipynb">Jupyter notebook</a></i></p>
+
 
 
 ## ETL Process - Load 
